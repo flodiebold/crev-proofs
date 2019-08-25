@@ -1,0 +1,17 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-08-25T14:04:53.879065657+02:00"
+from:
+  id-type: crev
+  id: sY_GYmASW7W-hSOZe78C0xbOTAYJM-vZNO8ktIAjvmw
+  url: "https://github.com/flodiebold/crev-proofs.git"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: author of crev
+-----BEGIN CREV TRUST SIGNATURE-----
+lvtS7C48W8yvFW2mfJamHWmf9a4yTdOTBMTNjCRCn-3mL7SvkAdbKNBJNO_QOP6Mg8xuADEBzEnoz1XRxnkaAA
+-----END CREV TRUST-----
+
