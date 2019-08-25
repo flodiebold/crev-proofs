@@ -1,0 +1,21 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-25T14:12:26.630506663+02:00"
+from:
+  id-type: crev
+  id: sY_GYmASW7W-hSOZe78C0xbOTAYJM-vZNO8ktIAjvmw
+  url: "https://github.com/flodiebold/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: jod-thread
+  version: 0.1.0
+  revision: 21ef3f1e9d17e2c00fe2579b1f7cea8648b8ed06
+  digest: uXnMkDoGWVPF5pz-3tHUnjqi7EgqP-BXexMoXeDwPHE
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+dkq_h1OOCI6aUlrmBDViZbIqTQ4RnTjhlO126GibBpB1iiubNH1-sltEHYoo4s5KqIsaRGJor_wIqvEmw0p8BQ
+-----END CREV PACKAGE REVIEW-----
+
